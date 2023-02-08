@@ -1,0 +1,21 @@
+{
+  "name": "opposit-dark",
+  "displayName": "Opposit Dark",
+  "description": "Dark Opposit Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Opposit Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Opposit Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
