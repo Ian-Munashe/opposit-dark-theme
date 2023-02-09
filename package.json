@@ -2,7 +2,19 @@
   "name": "opposit-dark",
   "displayName": "Opposit Dark",
   "description": "Dark Opposit Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "IanMunasheMatenje",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ian-Munashe/opposit-dark-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "opposit",
+    "opposit theme",
+    "opposit dark"
+  ],
   "engines": {
     "vscode": "^1.75.0"
   },
